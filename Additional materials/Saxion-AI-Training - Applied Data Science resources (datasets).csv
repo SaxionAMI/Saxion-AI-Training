@@ -1,0 +1,6 @@
+﻿Name,Author,Format,Type,Topic,Date (updated),Description,Link
+Wikipedia List of datasets for ML research,Wikipedia,,,Machine learning,2020,,https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+DAVIS 2017,,,"Video, images",Object segmentation,2017,"DAVIS: Densely Annotated VIdeo Segmentation, yearly challenge",https://davischallenge.org
+VisualData search engine,,,"Video, images",Computer vision,2020,Search engine for computer vision datasets,https://www.visualdata.io
+Google Dataset Search,Google,,,Machine learning,2020,Search engine for datasets,https://datasetsearch.research.google.com
+The NLP Index,,,Text,NLP,2021,"It houses over 3,000 code repositories that one can search including a side bar with some of the most important topics in NLP today.",https://index.quantumstat.com
